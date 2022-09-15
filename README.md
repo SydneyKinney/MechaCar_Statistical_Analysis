@@ -39,3 +39,13 @@ The manufacturing lots and each lot individually are not statistically different
 ![Lot3Test](https://user-images.githubusercontent.com/107209737/190486921-9db0a884-f556-4029-be1e-43d2f5c2cf00.png)
 
 ## Study Design: MechaCar vs Competition
+In a future statistical study, I want to see how the maintenance costs of the MechaCar performs against the competition. How I would do this is answered below.
+#### 1) What metric or metrics are you going to test?
+- maintenance cost
+#### 2) What is the null hypothesis or alternative hypothesis?
+- Null Hypothesis is that all of the cars in the same class have the same maintenance costs. The Alternative Hypothesis is that they do not all have the same costs.
+#### 3) What statistical test would you use to test the hypothesis? And why?
+- I would use an ANOVA tests to find out if experiement results are significant. 
+#### 4) What data is needed to run the statistical test?
+- Car class and maintenance cost data (i.e, oil change, engine repairs etc).
+
